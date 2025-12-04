@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Ahmadi
+# 👋 I'm Mohammad Ahmadi
 
 A passionate **Python developer**, **Full-Stack web developer**, and someone who enjoys building real-world projects with clean architecture, automation, and modern web solutions.
 
@@ -11,29 +11,28 @@ I focus on:
 ---
 
 ## 🌐 Socials
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammad243ahmadi@gmail.com)
-
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 ---
 
 # 🧩 Featured Projects  
-Here are some of my highlighted works (you can update below any time):
+###  ⏲️ **Time Logger Telegram Bot**
+A Telegram bot for tracking employee work activities, breaks, and generating detailed time reports.
+**Tech:** Python, Aiogram, PostgreSQL, Redis, Vercel API
+👉 **
 
 ### 🔹 **Anonymous Telegram Chatbot**
 A full anonymous chat system with coins, profile images, age, rewards, and gender-based matching.  
 **Tech:** Python, Aiogram, PostgreSQL, Redis, Vercel API  
-👉 *Add your repo link here*
 
 ### 🔹 **EJS Guestbook Web App**
 Simple and modern guestbook using EJS, Express, and MongoDB with login/signup.  
-👉 *Add your repo link here*
+
 
 ### 🔹 **Linear Regression ML Project**
 Data preprocessing, model training, and evaluation using scikit-learn.  
-👉 *Add your repo link here*
 
 ### 🔹 **Portfolio Website**
 A modern and responsive website built using HTML, CSS, JS, and Bootstrap.  
-👉 *Add your repo link here*
 
 ---
 
