@@ -11,7 +11,16 @@ I focus on:
 ---
 
 ## 🌐 Socials
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+Feel free to reach out to me on any of these platforms — I’m always open to collaboration, freelancing, and tech discussions!
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammad243ahmadi@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/mohammad243ildepenti)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+93785173338)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](
+https://www.instagram.com/mohammad.243ahmadi?igsh=MTBkZnFmbTAydTZoNg==
+)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mohammad.hah.96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 ---
 
 # 🧩 Featured Projects  
