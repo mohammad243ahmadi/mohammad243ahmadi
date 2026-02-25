@@ -29,9 +29,11 @@ A Telegram bot for tracking employee work activities, breaks, and generating det
 **Tech:** Python, Aiogram, PostgreSQL, Redis, Vercel API
 👉 **
 
-### 🔹 **Anonymous Telegram Chatbot**
-A full anonymous chat system with coins, profile images, age, rewards, and gender-based matching.  
-**Tech:** Python, Aiogram, PostgreSQL, Redis, Vercel API  
+### 🔹 **Safir The elite Web app**
+A fully dynamic web app with Admins dashboard, student dashboard, teacher dashboard . Admins can change most part of web site like background images add course events and.... 
+Hosted in vps server, with dockoloy 
+Visite site here: https://safir-foundation.org/
+**Tech:** react, postgress, Node.js, express
 
 ### 🔹 **EJS Guestbook Web App**
 Simple and modern guestbook using EJS, Express, and MongoDB with login/signup.  
