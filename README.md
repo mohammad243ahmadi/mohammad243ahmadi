@@ -1,3 +1,13 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+
 # 👋 I'm Mohammad Ahmadi
 
 A passionate **Python developer**, **Full-Stack web developer**, and someone who enjoys building real-world projects with clean architecture, automation, and modern web solutions.
