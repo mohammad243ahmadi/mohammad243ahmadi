@@ -91,7 +91,7 @@ https://mhussainahmadicv.vercel.app/
 # 🏆 Achievements
 - ✔ Built multiple full-stack apps with clean authentication systems  
 - ✔ Developed Telegram bots used by hundreds of users  
-- ✔ Completed 100+ projects while learning advanced development  
+- ✔ Completed 20+ projects while learning advanced development  
 - ✔ Strong understanding of databases, API design, and deployment  
 
 ---
